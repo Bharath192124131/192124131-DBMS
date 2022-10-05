@@ -15,7 +15,7 @@
 ![EX3](https://user-images.githubusercontent.com/113881189/193969940-9749fa5d-8e1e-4af4-a43e-fb2f79a28308.png)
 
 ## EXPERIMENT 4
-<img width="593" alt="ex4" src="https://user-images.githubusercontent.com/113881189/193970418-08a9ea14-6ea4-4fc3-b943-bd4641a4f256.png">
+<img width="593" alt="EXPER 4" src="https://user-images.githubusercontent.com/113881189/193970832-b03a5ab6-cf85-4de3-9ff1-36b5d937a987.png">
 ![ex4a](https://user-images.githubusercontent.com/113881189/193970344-2e093d27-70d0-4bc9-8409-aa3a41bff3ce.png)
 ![ex4b](https://user-images.githubusercontent.com/113881189/193970337-0a2f92d8-f872-477f-9d07-8c6f7b5bace6.png)
 
